@@ -4,4 +4,48 @@
   box-sizing: border-box;
 }
 
+:root {
+  --color-text:#1C1B2E;
+  --color-text-body:#3A3950;
+  --color-text-muted:#6B6A80;
+  --color-bg:#FFFFFF;
+  --color-bg-alt:#F4F5F7;
+  --color-border:#E3E5EA;
+  --color-border-field:#CBD0D8;
+  --color-primary:#C8402A;
+  --color-primary-hover:#A3311F;
+  --color-accent:#F4C95D;
+  --color-error:#B3261E;
+  --color-scene-lake:#1F4E8C;
+  --color-scene-lake-text:#FFFFFF;
+  --color-scene-forest:#2F6B3A;
+  --color-scene-forest-text:#FFFFFF;
+  --color-scene-kiosk:#B87A1E;
+  --color-scene-kiosk-text:#1C1B2E;
+  --font-family-base:Inter, sans-serif;
+  --font-weight-regular:400;
+  --font-weight-bold:700;
+  --font-weight-black:800;
+  --font-size-h1:56px;
+  --line-height-h1:64px;
+  --font-size-h2:40px;
+  --line-height-h2:48px;
+  --font-size-h3:28px;
+  --line-height-h3:36px;
+  --font-size-lead:20px;
+  --line-height-lead:32px;
+  --font-size-body:16px;
+  --line-height-body:26px;
+  --font-size-small:14px;
+  --line-height-small:22px;
+  --space-xs:8px;
+  --space-sm:16px;
+  --space-md:24px;
+  --space-lg:40px;
+  --space-xl:64px;
+  --radius-control:6px;
+  --radius-card:12px;
+  --radius-pill:999px;
+}
+
 /*# sourceMappingURL=style.css.map */
